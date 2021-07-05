@@ -1,0 +1,34 @@
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.site-layout-sub-header-background {
+  background: #fff;
+}
+
+.site-layout-background-uncollapsed {
+  margin-top: 65px;
+  padding: 10px;
+  margin-left: 202px;
+  background: rgb(255, 255, 255);
+  transition: margin-left 0.1s;
+}
+
+.sider{
+  position: fixed;
+  left: 0;
+
+  height: 100vh;
+
+  border-right-style: solid;
+  border-color: #bcc6cf8a;
+  border-width: 0.0025px;
+
+  margin-top: 65px;
+  /* background-color: #ffffff; */
+  font-size: 15;
+  overflow: auto;
+  scrollbar-width: thin;
+}

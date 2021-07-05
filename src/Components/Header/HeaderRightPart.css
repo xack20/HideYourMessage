@@ -1,0 +1,13 @@
+.header-extention {
+  text-align: right;
+  margin-left: auto;
+  order: 2;
+
+  height: 65px;
+}
+
+.avatar{
+  color: #0093f5;
+  background-color: #cffdf5;
+  cursor: pointer;
+}

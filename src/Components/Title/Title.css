@@ -1,0 +1,18 @@
+.name {
+  margin-top: 20px;
+  margin-left: 150px;
+  padding-right: 150px;
+  color: #ffffff;
+  transition: color 0.5s;
+}
+.name:hover {
+  cursor: default;
+  color: #656291f1;
+  text-shadow: 0 0 3px #5a54c96c;
+}
+
+@media screen and (max-width: 1200px) {
+  .name {
+    display: none;
+  }
+}
